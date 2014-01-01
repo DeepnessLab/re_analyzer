@@ -1,0 +1,3 @@
+LIBRARY   re2_analyzer
+EXPORTS
+   get_analyzer_object   @1

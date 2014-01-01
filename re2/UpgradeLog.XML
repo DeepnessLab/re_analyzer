@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="re2">
+</Property><Property Name="Solution File" Value="C:\Users\TC\Desktop\re2-2011-09-30-src-win32\re2\re2.sln">
+</Property><Property Name="Date" Value="Friday, November 15, 2013">
+</Property><Property Name="Time" Value="23:29:17">
+</Property></Properties><Event ErrorLevel="0" Project="re2" Source="re2.vcproj" Description="Converting project file 'C:\Users\TC\Desktop\re2-2011-09-30-src-win32\re2\re2.vcproj'.">
+</Event><Event ErrorLevel="1" Project="re2" Source="re2.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="re2" Source="re2.vcproj" Description="Done converting to new project file 'C:\Users\TC\Desktop\re2-2011-09-30-src-win32\re2\re2.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="re2" Source="re2.vcproj" Description="Converted">
+</Event></UpgradeLog>
